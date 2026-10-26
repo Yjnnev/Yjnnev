@@ -1,16 +1,25 @@
-## Hi there 👋
+<p align="center">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Yjnnev&show_icons=true&theme=radical&hide_title=true" /><img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yjnnev&layout=compact&theme=radical&langs_count=6" />
+</p>
 
-<!--
-**Yjnnev/Yjnnev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Vennjy Lugo 🐱
 
-Here are some ideas to get you started:
+**3rd Year Computer Science Undergraduate** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love making pixel games, machine learning, and AI! I use Arch btw 🐧. I also like contributing to other people's projects to see where I can help even if it's small.
+
+Currently focused on **2D game development with Godot, machine learning with Python, and basic web development using HTML, CSS, JavaScript, Preact, and Vite.**
+
+## Core Skills
+- **Languages:** C, C++, JavaScript, Python
+- **Frontend:** HTML, CSS, React, Preact, Vite
+- **Backend:** Firebase, Supabase
+- **Game Dev:** Godot
+- **Tools & OS:** Docker, Arch Linux
+
+## Connect
+
+- **Email:** vennjy.lugo@gmail.com
+- **GitHub:** https://github.com/Yjnnev
+  
+> Learning by building, one project at a time. 🐾
