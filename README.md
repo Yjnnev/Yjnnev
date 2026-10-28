@@ -22,4 +22,4 @@ Currently focused on **2D game development with Godot, machine learning with Pyt
 - **Email:** vennjy.lugo@gmail.com
 - **GitHub:** https://github.com/Yjnnev
   
-> Learning by building, one project at a time. 🐾
+> Reach out! 🐾
