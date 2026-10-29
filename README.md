@@ -1,5 +1,6 @@
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Yjnnev&show_icons=true&theme=radical&hide_title=true" /><img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yjnnev&layout=compact&theme=radical&langs_count=6" />
+   <img alt="GitHub stats" src="./profile-summary-card-output/tokyonight/3-stats.svg" width="40%"/>
+  <img alt="Top languages" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="40%"/>
 </p>
 
 # Vennjy Lugo 🐱
